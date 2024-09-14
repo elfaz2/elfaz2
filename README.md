@@ -4,14 +4,14 @@ I'm a Fullstack Developer with expertise in **Laravel**, **Vue.js**, and **Nuxt.
 
 Here’s a glimpse of my GitHub activity and stats:
 
-![Metrics](https://github.com/Quicksilver151/Quicksilver151/blob/main/github-metrics.svg)
+![Metrics](https://github.com/elfaz2/elfaz2/blob/main/github-metrics.svg)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Contribution Stats](https://github.com/Quicksilver151/Quicksilver151/blob/main/contributions.svg)
-![Languages](https://github.com/Quicksilver151/Quicksilver151/blob/main/languages.svg)
+![Contribution Stats](https://github.com/elfaz2/elfaz2/blob/main/contributions.svg)
+![Languages](https://github.com/elfaz2/Quicksilver151/blob/main/languages.svg)
 
 ---
 
