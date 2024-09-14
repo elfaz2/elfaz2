@@ -1,1 +1,26 @@
 
+template: classic
+
+# Base configuration
+user: elfaz2
+token: ${{ secrets.METRICS_TOKEN }}
+
+base:
+  header: 
+    text: "👋 Hello, I'm Elfaz Aklilu"
+    style: animated
+  footer:
+    text: "Let's connect and contribute together!"
+    style: animated
+  activity: true
+
+# Plugins
+plugins:
+  - languages
+  - stars
+  - contributions
+  - streak
+  - commits
+
+# Appearance customization
+theme: "light"
