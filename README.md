@@ -1,22 +1,18 @@
 # 👋 Hello, I'm Elfaz Aklilu!
 
-![Top Languages](https://img.shields.io/badge/Rust-48.26%25-orange) ![Top Languages](https://img.shields.io/badge/GDScript-41.31%25-blue) ![Top Languages](https://img.shields.io/badge/Python-8.19%25-yellow) ![Top Languages](https://img.shields.io/badge/Shell-1.40%25-green) ![Top Languages](https://img.shields.io/badge/Lua-0.85%25-purple)
+I'm a Fullstack Developer with expertise in **Laravel**, **Vue.js**, and **Nuxt.js**. Over the past 8+ years, I've developed a strong foundation in backend and frontend development, successfully completing 30+ projects and delivering scalable, robust solutions.
+
+Here’s a glimpse of my GitHub activity and stats:
+
+![Metrics](https://github.com/Quicksilver151/Quicksilver151/blob/main/github-metrics.svg)
 
 ---
 
-## ⚡ GitHub Stats
+## 📊 GitHub Stats
 
-- **✨ Total Contributions:** `986`  
-- **🔥 Current Streak:** `214 days` (Dec 20, 2022 – Jul 21)  
-- **🚀 Longest Streak:** `214 days` (Dec 20, 2022 – Jul 21)  
+![Contribution Stats](https://github.com/Quicksilver151/Quicksilver151/blob/main/contributions.svg)
+![Languages](https://github.com/Quicksilver151/Quicksilver151/blob/main/languages.svg)
 
 ---
 
-## 🛠️ Most Used Languages
-
-```text
-Rust         ████████████████████████    48.26%
-GDscript     ██████████████████          41.31%
-Python       ██                          8.19%
-Shell        █                            1.40%
-Lua          █                            0.85%
+Feel free to explore my repositories, fork, or collaborate on any interesting projects! Let's build something amazing together!
